@@ -1,0 +1,16 @@
+{
+  "name": "aristotto",
+  "description": "The Aristotto plugin: make images, videos and audio with Aristotto from Claude.",
+  "owner": {
+    "name": "Aristotto, Inc.",
+    "url": "https://aristotto.ai"
+  },
+  "plugins": [
+    {
+      "name": "aristotto",
+      "source": "./",
+      "description": "Make images, videos and audio with Aristotto, with every paid job quoted and approved first.",
+      "version": "2.0.0"
+    }
+  ]
+}

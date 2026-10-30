@@ -1,0 +1,19 @@
+{
+  "name": "aristotto",
+  "displayName": "Aristotto",
+  "version": "2.0.0",
+  "description": "Make images, videos and audio with Aristotto: product photoshoots, headshots, ad cards, creator review videos, talking portraits, clip edits and more. Every paid job is quoted and approved first.",
+  "author": {
+    "name": "Aristotto, Inc.",
+    "url": "https://aristotto.ai"
+  },
+  "homepage": "https://aristotto.ai/mcp",
+  "repository": "https://github.com/aristotto/aristotto-plugins",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["image-generation", "video-generation", "audio-generation", "product-photos", "ads"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://aristotto.ai/mcp",
+  "supportUrl": "https://aristotto.ai/creative-hub/help-center",
+  "privacyPolicyUrl": "https://aristotto.ai/privacy",
+  "termsOfServiceUrl": "https://aristotto.ai/terms"
+}
